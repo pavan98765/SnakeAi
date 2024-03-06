@@ -25,13 +25,19 @@ pip install pygame torch numpy
 
 Clone the repository to your local machine and navigate to the cloned directory:
 
-`git clone https://github.com/pavan98765/SnakeAi.git`
+```bash
+git clone https://github.com/pavan98765/SnakeAi.git
+```
 
-`cd SnakeAi`
+```bash
+cd SnakeAi
+```
 
 To start the game and AI training, run:
 
+```bash
 python agent.py
+```
 
 ## How It Works
 
@@ -49,3 +55,7 @@ You can adjust various parameters in `train.py` to experiment with the AI's lear
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or bug fixes, feel free to open an issue or pull request.
+
+```
+
+```
