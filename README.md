@@ -2,6 +2,14 @@
 
 This repository contains a Python-based AI for playing the classic Snake game. The project utilizes the Pygame library for game development and a simple neural network for the AI agent, making decisions based on the game state.
 
+### After learning:
+
+![img](<data/video_to_gif%20(1).gif>)
+
+### During training:
+
+![img](data/img3.png)
+
 ## Features
 
 - **Game Environment**: Implemented using Pygame, featuring a simple and intuitive interface.
