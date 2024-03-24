@@ -4,11 +4,11 @@ This repository contains a Python-based AI for playing the classic Snake game. T
 
 ### After learning:
 
-![img](<data/video_to_gif%20(1).gif>)
+![img](<Results/video_to_gif%20(1).gif>)
 
 ### During training:
 
-![img](data/img3.png)
+![img](Results/img3.png)
 
 ## Features
 
